@@ -1,1 +1,0 @@
-[Category:Obsolete](Category:Obsolete "wikilink")

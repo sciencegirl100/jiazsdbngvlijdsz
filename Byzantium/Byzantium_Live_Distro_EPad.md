@@ -1,0 +1,3 @@
+## Suggestions
+
+- etherpad-lite
